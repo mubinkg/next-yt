@@ -13,14 +13,17 @@ const ExperienceOne = () => {
                     <div>Gulshan-1, Dhaka</div>
                 </div>
             </div>
-            <ul className="list-disc list-outside ml-4 text-sm text-gray-700 space-y-1">
+            <ul className="list-disc list-outside ml-4 text-xs text-gray-700 space-y-0.5">
                 <li>Working on multiple financial portals and backoffice systems(Uclick, Uclick Backoffice, Finance, EKyc, B2b, Corporate, Automation Portal, Payment Gateway etc.)</li>
-                <li>Developed 30+ new software solutions by analyzing system performance standards</li>
-                <li>Analyzed systems flow, data usage, and work processes; investigated 100% of problem areas</li>
-                <li>Integrated existing software into 13 upgraded, modified systems for higher performance</li>
-                <li>Developed and executed 200+ test procedures for software components</li>
-                <li>Analyzed 30+ user requirements to derive technical software design and performance requirements</li>
-                <li>Planned, tracked, and managed deliverables on 200+ short-term sprints and 50+ long-term deployments</li>
+                <li>In uclick portals worked with next.js app router, fully typescript support, schadcn, tailwindcss and tanstack stack</li>
+                <li>Implement lazy loading, server actions, partial pre-rendering, and static generation to improve performance and reduce bundle size.</li>
+                <li>Also consider on reduce roundtrip time and improve user experience. Implement prefetching and streaming for complex dashboards.</li>
+                <li>Add authentication with jwt, role based access control, and refresh token.</li>
+                <li>Implemnt some security policy like xss, clickjacking, csrf, etc.</li>
+                <li>All other portals are developed in react.js with JavaScript, redux, sagas.</li>
+                <li>Here i improved code quality and fixing bugs also improve performance of the code by using memoization and caching.</li>
+                <li>Resolve lots of unwanted issues, bug and wanning.</li>
+                <li>Build docker imgae for all portals and help to deploy on kubernetes cluster with devops team.</li>
             </ul>
         </div>
     )
