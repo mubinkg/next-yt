@@ -24,6 +24,9 @@ const ExperienceOne = () => {
                 <li>Here i improved code quality and fixing bugs also improve performance of the code by using memoization and caching.</li>
                 <li>Resolve lots of unwanted issues, bug and wanning.</li>
                 <li>Build docker imgae for all portals and help to deploy on kubernetes cluster with devops team.</li>
+                <li>Worked in corporate, b2b backend using django rest framework and postgresql.</li>
+                <li>Using celery for background task and redis for caching.</li>
+                <li>Implement corporate salary in bulk for thoused of people at time using celery.</li>
             </ul>
         </div>
     )
