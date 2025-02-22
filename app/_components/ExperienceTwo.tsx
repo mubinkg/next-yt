@@ -9,7 +9,7 @@ const ExperienceTwo = () => {
                     <div className="text-gray-700">Fanfare Bangladesh Ltd.</div>
                 </div>
                 <div className="text-right text-gray-600 text-sm">
-                    <div>June 2019 - August 2020</div>
+                    <div>June 2022 - Oct 2023</div>
                     <div>Nashville, TN</div>
                 </div>
             </div>
