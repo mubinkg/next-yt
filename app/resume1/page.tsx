@@ -30,14 +30,14 @@ export default function page() {
           </div>
         </header>
         <div className="flex justify-between gap-8">
-          <div className="w-8/12">
+          <div className="w-[75%]">
             <h2 className="text-lg font-bold text-gray-900 mb-4">WORK EXPERIENCE</h2>
             <div className="space-y-4 flex flex-col">
               <ExperienceOne/>
               <ExperienceTwo/>
             </div>
           </div>
-          <div className="w-4/12">
+          <div className="w-[25%]">
             <div className="flex flex-col gap-4">
               <Education />
               <Skills />

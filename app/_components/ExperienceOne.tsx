@@ -13,7 +13,7 @@ const ExperienceOne = () => {
                     <div>Gulshan-1, Dhaka</div>
                 </div>
             </div>
-            <ul className="list-disc list-outside ml-4 text-xs text-gray-700 space-y-0.5">
+            <ul className="list-disc list-outside ml-4 text-sm text-gray-700 space-y-0.5">
                 <li>Working on multiple financial portals and backoffice systems(Uclick, Uclick Backoffice, Finance, EKyc, B2b, Corporate, Automation Portal, Payment Gateway etc.)</li>
                 <li>In uclick portals worked with next.js app router, fully typescript support, schadcn, tailwindcss and tanstack stack</li>
                 <li>Implement lazy loading, server actions, partial pre-rendering, and static generation to improve performance and reduce bundle size.</li>
@@ -22,7 +22,6 @@ const ExperienceOne = () => {
                 <li>Implemnt some security policy like xss, clickjacking, csrf, etc.</li>
                 <li>All other portals are developed in react.js with JavaScript, redux, sagas.</li>
                 <li>Here i improved code quality and fixing bugs also improve performance of the code by using memoization and caching.</li>
-                <li>Resolve lots of unwanted issues, bug and wanning.</li>
                 <li>Build docker imgae for all portals and help to deploy on kubernetes cluster with devops team.</li>
                 <li>Worked in corporate, b2b backend using django rest framework and postgresql.</li>
                 <li>Using celery for background task and redis for caching.</li>
