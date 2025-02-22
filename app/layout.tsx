@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="mx-auto w-[600px] my-20">
+      <body>
         
         {children}
        
