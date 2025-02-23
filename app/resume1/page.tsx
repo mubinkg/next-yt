@@ -6,6 +6,7 @@ import Skills from "../_components/Skills"
 import Certificate from "../_components/Certificate"
 import ExperienceOne from "../_components/ExperienceOne"
 import ExperienceTwo from "../_components/ExperienceTwo"
+import Projects from "../_components/Projects"
 
 export default function page() {
   return (
@@ -45,6 +46,7 @@ export default function page() {
             </div>
           </div>
         </div>
+        <Projects/>
       </div>
     </div>
   )
